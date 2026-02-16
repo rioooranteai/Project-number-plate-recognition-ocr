@@ -48,10 +48,6 @@ graph LR
     style A fill:#e3f2fd
     style F fill:#c8e6c9
     style E fill:#fff9c4
-```
-
-**Key Differentiator**: Dual OCR engine approach (PaddleOCR + EasyOCR) for redundancy and higher accuracy.
-
 ---
 
 ## ✨ Features
